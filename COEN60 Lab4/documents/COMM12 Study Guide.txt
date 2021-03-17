@@ -1,0 +1,227 @@
+﻿Chou 
+COMM12 Midterm 1 Study Guide
+
+
+Baym Ch.1
+
+
+7 concepts to help compare different media and fac-to-fact communication
+1. Interactivity: the many modes of communication on the internet and the mobile phone they vary in degrees and kinds of interactivity they offer.
+   1. Consider, for instance, the difference between using your phone to select a new ringtone and using that phone to argue with a romantic partner, or using a website to buy new shoes rather than to discuss current events. 
+   2. Social interactivity, "the ability of a medium to enable social interaction between groups or individuals," is what we are most interested in here. Other kinds include technical interactivity, "a medium's capability of letting human users manipulate the machine via its interface," and textual interactivity, "the creative and interpretive interaction between users and texts." 
+2. Temporal structure
+   1. Synchronous communication, such as is found in face-to-face conversations, phone calls, and instant messages, occurs in real time. 
+   2. Asynchronous communication media, such as email and voicemail, have time delays between messages.
+3. Social cues: most of the questions surrounding the personal connections people form and maintain through digital media derive from the sparse social cues that are available to provide further information regarding context, the meanings of messages, and the identities of the people interacting.
+   1.  They share a physical context, which they can refer to nonverbally as well as verbally (for instance, by pointing to a chair). They are subject to the same environmental influences and distractions. They can see one another's body movements, including the facial expressions through which so much meaning is conveyed. They can use each other's eye gaze to gauge attention. They can see one another's appearance. They can also hear the sound of one another's voice. 
+   2. All of these cues - contextual, visual, and auditory- are important to interpreting messages and creating a social context within which messages are meaningful. 
+   3. Physical gesture to someone that is understood
+4. Storage: the maintenance of messages on servers or harddrives over time
+   1. To varying degrees, digital media may be stored on devices, websites, and company backups where they may be replicated, retrieved at later dates, and edited prior to sending.
+   2. Synchronous forms like IM and Skype require logging programs that most users are not likely to have. Those that are asynchronous can be easily saved, replicated, and redistributed to others. They can also be archived for search.
+   3. Things can be forwarded, copied
+5. Replicability: the ability to make copies of messages, are highly consequential.
+   1. Government agencies, such as the United States' National Security Administration, may capture and save data and metadata from enormous amounts of internet and mobile phone traffic. Despite this, online messages may feel ephemeral, and, indeed, websites may be there one day and different or gone the next.
+   2. Connotation: cultural meaning of something
+      1. Always comes from cultural context
+6. Reach: media also vary in the size of an audience they can attain or personal connection support, or reach. 
+   1. Describes reach as "the partner of speed," noting that "digitized discourse travels quickly, but it also travels widely. One single keystroke can send a message to thousands of people." Face-to-face communication is inherently limited to those who can fit in the same space.
+   2.  Messages can reach audiences both local and global.
+   3. Reach of email that can be forwarded infinity times
+   4. Fact of what you say can reach everybody
+7. Mobility: media vary in their mobility, or extent to which they are portable - enabling people to send and receive messages regardless of location - or stationary - requiring that people be in specific locations in order to interact. 
+   1. The mobile phone represents the paradigm case of mobility, making person-to-person communication possible regardless of location. The trend toward mobile devices is further enhanced by the rise of tablets and "phablets" as well as the increasing preference for laptops over clunky personal computers tied to desks and landline phones. In addition to offering spatial mobility, some digital media allow us to move between times and interpersonal contexts.
+   2. Digital media allows us to be absent and present at the same time
+      1. What does that give you? What does it give others?
+
+
+Smartphone and tweeting nun articles (how, in different ways, digital media come into people’s lives)
+* Nun who tweets at president Trump. How she finds it difficult each day: live up to the expectations of the followers. Also if she doesn’t post, there will probably be backlash and she will probably upset many people.
+* Student who is denied entry to the US because of what his friends have posted on Facebook.
+* Young people who don’t go out, don’t socialize, don’t fight for independence.
+* Sadness and loneliness among incoming students, and the relationship between loneliness and communication technology and social media.
+
+
+The Three Revolutions
+1. Broadband
+   1. Broadband connections more higher speed, always-on connections
+      1. We spend more time online, perform more activities, watch more videos, etc.
+2. Mobile
+   1. Mobile connectivity through cell phones → nowadays smartphones, tablets, and computers can communicate instantaneously (instantly) anywhere throughout the day.
+   2. Gather information
+   3. Change the way how we use our time and attention
+3. Social 
+   1. The way we think about our family, friends, and acquaintances → even strangers
+   2. At the same time, helps us connect more
+      1. Ex: making new friends online → are we compatible, etc.
+   3. Social media allows people to plug into social networks more readily and broadly
+   4. Boundaries between private and public, work and home, consumer & producer
+
+
+Rediscovering My Daughter Through Instagram
+* Stereotypical view that girls would post inappropriate pictures → instead, tables turn, reveal her hidden talent
+   * Fact that they don’t need to communicate in order to discover who each other truly is
+* Our lives are all on social media → in black-and-white, and in color
+* Using social media to physically connect with her daughter, but not face to face
+* Being able to keep memories → sometimes my mom looks back at the posts she’s made on FB and her blog
+
+
+Keeping Insecure Lit (issues of race and technology)
+* Cameras aren’t made for brown people → they weren’t considered when cameras were made
+* Making black faces not only legible, but striking
+* We live in a world where light skin and long hair are prioritized over dark skin and curly hair (white supremacy)
+* Some professors teach students to throw blue and amber light onto their dark skin actors
+   * However, there’s not one shade that lights all types of dark skin
+* Shirley → white women → all they cared about was if Shirley looked good → distinguishing shades of woods
+* Caucasian skin baseline that “different” is measured from
+* Earlier films consisted of white actors in blackface
+* Companies complained that they couldn’t tell different-colored wood products apart
+* Rather than pound someone’s face with light, light is instead reflected off of them
+* Filter → polarizer
+
+
+Harvard freshman denied entry to US over friend’s social media posts (issues of privacy 
+and responsibility
+* Do your friends and friend’s interests define you?
+
+
+McLuhan: The Power of Media Technologies
+* Technology impacts society and the peoples in those societies
+* Each medium shapes and directs human action in unique and important ways
+* Media create active environments
+* Environment is process, not container
+* Each medium creates a ground, a particular context for human communication
+   * “Machines change us” -Baym
+   * “The characteristics of technologies are transferred to users” -McLuhan
+* Characteristics of technologies are transferred to users
+   * Ex: rapid fire editing leads to short attention spans
+* What does powerpoint do to you?
+   * Use of powerpoint leads to bullet point thinking
+   * List of profile items on social media leads to a certain identity, and a certain sense of self
+* How society functions and how we create meaning (what we do)
+* How technology is changing people’s thoughts → what is technology doing, how is it integrated?
+
+
+Culture and Tech
+* Technology: our ways and means of communicating
+   * Communication technology: the ways and means that human beings have created
+* Technology influences society
+* Culture: ways people organize their customs, as well as the ways people organize their ideas and their beliefs about the world
+   * All forms of self expression
+* A medium’s ‘bias’: bias of communication → formal properties affect the way people communicate
+* Communication technologies are extensions of our sense
+* Hot media vs cold media 
+   * Hot media emphasizes single sense whereas cold media encourages interplay of multiple senses
+* Complex circular (feedback) flows, rather than simple linear designs
+* Holistic thinking, rather than fragmented ideas
+* Multidimensional perspectives on things
+* An acceptance of discontinuity in experience and ideas
+* Communication strategies based on appeal to emotion rather than rationality
+* Retribalization: Western society returning to forms and processes that are associated with oral cultures → cultures that do not use written language as their primary technology of communication
+
+
+Time and Space
+* Global village: people all over the world
+* Bind space: medium is good at keeping messages together over great distances
+* Bind time: medium is good at preserving messages over great periods of history
+* Time binding media
+   * Clay or stone tablets
+* Space binding media
+
+
+Figure and Ground
+* Medium turns out to be a ground for figure
+* “Medium of our age” is electricity 
+* “Medium is the message”
+* Figure and ground: media as active environments rather than passive systems of delivery
+* Ground → supports and contextualizes situation 
+   * To examine the total effect, we need to look at everything including the ground
+* Process can be understood as preparedness
+   * Environment connectedness with phones
+      * Ex: you will pick a restaurant not for its food, but for how photogenic it is
+         * Every medium appears as a new figure in the old ground of a culture
+* Environment is process, not container
+* Converge
+   * Tend to meet in a point
+   * “The coming together of things”
+      * Ex: phone → it’s a camera, etc.
+      * 
+
+Determinism vs social construction (Chandler & Baym Ch. 2, Chambers Ch. 3)
+* Determinism
+   * Technology impacts society and the people in those societies
+   * Baym argues that “machines change us” and google is making us stupid
+* Utopian vs dystopian
+   * Utopian → transform society for the better
+   * Dystopian → fear of losing control, becoming dependent, unable to stop change
+* Technology-led theories: theories that assume technology drives society
+   * Linguistic determinism: our thinking is determined by language. People who speak different languages perceive and think about the world differently (linguistic relativity)
+   * Exposure to different technologies would give us different worlds
+      * Cause and effect models seem ‘natural’
+      * Is simplistic which makes it attractive
+      * Questioning it requires you to practice critical thinking skills
+         * Who benefits from us thinking this way?
+* Reductionism: aims to reduce a complex as a whole to the effects of one part (or parts) upon another part (or parts) opposite to ‘holism’
+   * Might do harm → simplify the world too much
+* Mechanistic models: machines offer models of phenomena. But: the complex fabric of social reality cannot be neatly analyzed into component factors
+* Reification: to ‘thingify’: to treat an abstraction as a material thing
+* Technological autonomy: technology is seen as a largely external - ‘outside’ of society. Technology is presented as an independent, self-controlling, self-determining, self-generating, self-propelling, self-perpetuating, and self-expanding force
+* The ‘technological imperative’: a notion of inevitability
+* Universalism: a particular technology - or its absence - is seen as universally linked to the same basic social pattern
+   * Universalism is ‘asocial’ and ‘ahistorical’: presented as outside the framework of any specific socio-cultural and historical context
+* Techno-evolution as ‘progress’
+   * Social processes → technologies influence a development and the use of
+* Theoretical stances
+* Strong (or hard) technological determinism
+* Weak (or soft) technological determinism
+* Social construction
+* Relationship between society and technology in this perspective
+* Social shaping
+   * All technology arises out of specific social circumstances
+   * The Middle Ground
+* Domestication: how communication technology will be incorporated into the home
+   * Structure and agency
+   * Moral economy → financial and value system
+   * Power struggles → with parents
+   * Physical space → how do you use technology?
+   * Content
+   * Use 
+   * Unit and people living together
+* The process of domestication
+1. Commodification: pre-adoption research, making plans
+2. Appropriation: the process of consumption, and bringing the device home
+3. Objectification: how it’s used, and places in the home
+4. Incorporation: the process of assimilation into the routines and rituals of the home
+5. Conversion: the technology is becoming taken-for-granted, but also new level of status among neighbors, family, and continuous negotiation of meaning and use
+6. Closure: the technology is taken-for-granted, familiar, and integrated into the home
+7. Possible redefinition: the new technology taking over or sharing functions with older technology
+* Personalization: how something gets integrated into your life
+   * Domestication vs personalization
+* Moral panic: when communication about technology becomes more important than the technology itself
+* Apparatgeist = spirit of technology
+* 4 theoretical perspectives
+* FOR TEST, REMEMBER GREEN LINE
+   * There are people that emphasize social structure, and there are those who see technology as dominating
+   * The truth is, they both happen at the same time
+
+
+Utopian vs dystopian views (Explain and be able to give examples of the two perspectives)
+* Information overload has replaced information scarcity as an important new emotional, social, and political problem
+* Email is an open duct into your central nervous system
+* Information production does not just increase, but accelerates (goes faster)
+* ‘Incessant barrage’ of information
+* Stoll: no simple technological solutions to social problems
+* Networks isolate
+* We miss the essence of a real neighborhood: the permanence and belonging, sense of location, warmth, that comes from being connected to local history
+* Simply by turning a computer on, you limit your ability to recognize other solutions
+* The medium in which we communicate, changes how we organize our thoughts 
+* Online interaction attracts extreme political views
+* Youth can’t converse with adults
+* RUSHKOFF
+   * Interactivity
+   * Connections
+   * Networked technology allows users to ‘write their own narratives’
+   * Grassroots activists
+* GLEICK
+   * The unintended consequences of the remote control
+   * Saul Berrow

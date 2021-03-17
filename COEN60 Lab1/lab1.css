@@ -1,0 +1,110 @@
+/*
+Evan Chou
+COEN60 Lab 1
+CSS style
+*/
+
+header {
+    text-align: center;
+    font-size: 190%;
+    color: #282828;
+    background-color: #E8E8E8;
+}
+
+#headerparagraph {
+    font-size: 80%;
+}
+
+#Photo1 {
+    border-radius: 60%;
+    width: 15%;
+    height: 15%;
+}
+
+body {
+    font-family: arial;
+    background-color: skyblue;
+}
+
+#secondpage {
+    padding-top: 175px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.row:after {
+    /*Make into tables*/
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column {
+    float: left;
+    width: 30%;
+    height: auto;
+    padding: 14px 14px;
+    margin-left: 35px;
+    margin-right: 50px;
+}
+
+#bottomleft {
+    width: 50%;
+    height: 50%;
+    margin-top: 15px;
+}
+
+#paragraphleft {
+    margin-bottom: 15px;
+}
+
+#paragraphmiddle {
+    margin-bottom: 15px;
+}
+
+#margin {
+    margin-top: 30px;
+}
+
+#margin2 {
+    margin-top: 45px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sidebar.column {
+    margin-top: 29px;
+    margin-bottom: 25px;
+    background-color: lightgray;
+}
+
+#sidebar p {
+    margin: 14px 5px 25px;
+}
+
+#bottomright {
+    width: 100%;
+    height: 60%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.Youtube {
+    text-align: center;
+    padding-top: 175px;
+}
+
+h2 {
+    font-size: 45px;
+    text-align: center;
+}
+
+#youtubeparagraph {
+    font-size: 20px;
+}

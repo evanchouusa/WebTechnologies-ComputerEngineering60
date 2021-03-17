@@ -1,0 +1,22 @@
+/*
+Evan Chou
+COEN60 Lab 7
+CSS style
+*/
+
+#firstTitle {
+    color: red;
+}
+
+#secondTitle {
+    color: blue;
+}
+
+#notVisited {
+    display: flex;
+    flex-direction: column;
+}
+
+a:visited {
+    color: black;
+}

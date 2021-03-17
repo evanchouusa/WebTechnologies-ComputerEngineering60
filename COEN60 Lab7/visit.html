@@ -1,0 +1,49 @@
+<!--
+Evan Chou 
+COEN60 Lab 7
+Lab7 html document
+-->
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="visit.css">
+    <title>Coen60 Lab 7</title>
+</head>
+
+<body onload="myFunction()">
+
+    <h2 id="firstTitle">You have visited:</h2>
+    <div id="yesVisited">
+
+    </div>
+
+
+    <h2 id="secondTitle">You have not visited:</h2>
+    <div id="notVisited">
+        <a hidden href="http://www.youtube.com/">http://www.youtube.com/</a>
+        <a href="http://www.google.com/">http://www.google.com/</a>
+        <a href="http://www.yahoo.com/">http://www.yahoo.com/</a>
+        <a href="http://www.apple.com/">http://www.apple.com/</a>
+    </div>
+
+    <script type="text/javascript">
+        function myFunction() {
+            var myUrls = document.querySelectorAll('a');
+            for (i = 0; i < myUrls.length; i++) {
+                if (document.defaultView.getComputedStyle(myUrls[i], ':visited').color == "rgb(0, 0, 0)") {
+                    var newDiv = document.createElement('div');
+                    newDiv.innerHTML = myUrls[i].innerHTML;
+                    var newLink = document.getElementById('yesVisited');
+                    newLink.appendChild(newDiv);
+                    myUrls[i].style.display = "none";
+                }
+            }
+        }
+    </script>
+
+</body>
+
+</html>

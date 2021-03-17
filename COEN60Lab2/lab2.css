@@ -1,0 +1,165 @@
+/*
+Evan Chou
+COEN60 Lab 2
+CSS style
+*/
+
+p:hover,
+h1:hover,
+h2:hover,
+img:hover,
+span:hover,
+link:hover,
+ul:hover,
+ol:hover,
+table:hover,
+caption:hover {
+    background-color: yellow;
+}
+
+.box1 {
+    border: 5px solid green;
+    background-color: white;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+header {
+    text-align: center;
+    font-size: 190%;
+    color: #282828;
+}
+
+#headerparagraph {
+    font-size: 80%;
+}
+
+#Photo1 {
+    border-radius: 60%;
+    width: 15%;
+    height: 15%;
+}
+
+body {
+    font-family: arial;
+}
+
+.box2 {
+    padding: 5px;
+    border: 5px solid blue;
+    margin-top: 10px;
+    background-color: #E8FBFB;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.row:after {
+    /*Make into tables*/
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column {
+    float: left;
+    width: 30%;
+    height: auto;
+    padding: 14px 14px;
+    margin-left: 35px;
+    margin-right: 50px;
+}
+
+#middlecolumn {
+    margin-top: 2px;
+}
+
+#bottommiddle {
+    /*image hovers to right side of surrounding test*/
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin-top: 2px;
+}
+
+#paragraphmiddle {
+    margin-bottom: 15px;
+}
+
+.leftcolumn {
+    border: 5px solid skyblue;
+    margin-top: 25px;
+}
+
+ol {
+    /*make list left aligned in column*/
+    text-align: left;
+}
+
+#paragraphleft {
+    margin-bottom: 15px;
+}
+
+#margin {
+    margin-top: 20px;
+}
+
+#margin2 {
+    margin-top: 20px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+#sidebar.column {
+    margin-top: 30px;
+    margin-bottom: 70px;
+    background-color: lightgray;
+}
+
+#sidebar p {
+    margin: 14px 5px 15px;
+}
+
+#columntitle {
+    text-align: center;
+}
+
+#bottomright {
+    width: 100%;
+    height: 60%;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+#columnparagraph {
+    text-align: center;
+}
+
+.box3 {
+    border: 5px solid pink;
+    padding: 5px;
+    margin-top: 10px;
+    background-image: url("images/tryguys.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+h2 {
+    font-size: 45px;
+    text-align: center;
+}
+
+#youtubeparagraph {
+    font-size: 20px;
+}
+
+iframe {
+    margin-bottom: 60px;
+}
